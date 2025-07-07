@@ -1,1 +1,1 @@
-# resume
+# Notes website for BCA students
